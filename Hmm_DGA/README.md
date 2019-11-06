@@ -4,7 +4,8 @@
   sklearn
 
 ## Dataset: 
-  Regular domains: Alexa top domains.
+  Regular domains: Alexa top domains
+  
   DGA domains: cryptolocke and post-tovar-goz
   
 ## References:
