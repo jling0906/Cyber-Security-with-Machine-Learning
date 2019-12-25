@@ -5,7 +5,7 @@ DDoS (Distributed Denial-of-Service) attack is to disrupt normal traffic of a ta
 ### Dataset: 
   KDD99
 ## 1.	Data collection and data cleaning:
-The dataset is called KDD99. Here is an review of it(https://peerj.com/preprints/1954/). KDD99 dataset was actually been cleaned already. In KDD99, each connection comes with 41 features.
+The dataset is called KDD99. Here is an [review](https://peerj.com/preprints/1954/) of it. KDD99 dataset was actually been cleaned already. In KDD99, each connection comes with 41 features.
 ![image](https://github.com/jling0906/Cyber-Security-with-Machine-Learning/blob/master/NB_Appache_DDoS/pics/NB_DDoS_KDD99.png)
 Only some of the 41 features are related with DDoS.
 ### 1)	The basic features the network connection.
