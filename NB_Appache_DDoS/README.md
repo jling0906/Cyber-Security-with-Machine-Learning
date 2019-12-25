@@ -23,5 +23,5 @@ Naïve Bayes algorithm
 Ten-fold cross validation. 
 The accurate rate is 99%.
 ### References:
-https://github.com/duoergun0729/1book
+https://github.com/duoergun0729/1book.
 https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/
